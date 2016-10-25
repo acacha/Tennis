@@ -1,0 +1,10 @@
+{
+    "require": {
+        "phpspec/phpspec": "^3.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    }
+}
